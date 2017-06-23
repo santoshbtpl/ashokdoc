@@ -1,4 +1,4 @@
-git connection hub
+connection github
 
 git config --global user.name ''
 git config --global user.email 
@@ -11,19 +11,14 @@ git help --config
 git config --help
 
 
-inside the diraCTORY
-git init
 
+git clone  paste path
+dwonload from github on local machine and go to inside the dwonload diractory.
+change file
 
 befor commit
 
 git status
-git commit -m "comment" filename
-
-git clone  paste path  
-dwonload from github
-
-
 git add  test.txt
-
+git commit -m "comment" filename
 git push -u origin master
