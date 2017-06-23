@@ -1,0 +1,29 @@
+git connection hub
+
+git config --global user.name ''
+git config --global user.email 
+
+git config --list
+
+git help
+
+git help --config
+git config --help
+
+
+inside the diraCTORY
+git init
+
+
+befor commit
+
+git status
+git commit -m "comment" filename
+
+git clone  paste path  
+dwonload from github
+
+
+git add  test.txt
+
+git push -u origin master
